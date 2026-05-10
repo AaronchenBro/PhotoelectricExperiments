@@ -1,0 +1,4 @@
+state_n,energy_eV,barrier_eV,well_width_nm,effective_mass_m0
+1,0.03412010,0.3,10.0,0.067
+2,0.13226660,0.3,10.0,0.067
+3,0.27108084,0.3,10.0,0.067
